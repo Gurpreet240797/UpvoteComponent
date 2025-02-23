@@ -1,1 +1,1 @@
-# UpvoteComponent
+# Upvote Component
