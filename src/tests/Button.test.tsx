@@ -7,7 +7,7 @@ describe("Button", () => {
   /**
    * Testing the Button component with the following test cases:
    * 1. Calls onClick handler when clicked
-   * 2. Renders with correct state classes
+   * 2. Renders with correct state classes- default or selected
    * 3. Applies custom className
    */
 
