@@ -19,8 +19,8 @@ export const Button = React.forwardRef<HTMLButtonElement, ButtonProps>(
       size === "lg" && "text-base leading-6 py-[10px] px-[18px]",
       size === "xl" && "text-base leading-6 py-3 px-[20px]",
       size === "2xl" && "gap-3 text-lg leading-7 py-4 px-[28px]",
-      state === "default" && "bg-gray-50",
-      state === "selected" && "bg-blue-100",
+      state === "default" && "bg-[#F4F6F8]",
+      state === "selected" && "bg-[#E5E8FD]",
       className,
     )
 
