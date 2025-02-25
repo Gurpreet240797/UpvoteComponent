@@ -1,4 +1,4 @@
-# [Upvote Component](https://gurpreet240797.github.io/UpvoteComponent/).
+# [Upvote Component](https://gurpreet240797.github.io/UpvoteComponent/)
 
 ## Component Deployment
 
