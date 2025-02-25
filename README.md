@@ -1,6 +1,6 @@
 # [Upvote Component](https://gurpreet240797.github.io/UpvoteComponent/)
 
-## Component Deployment
+## Deployment
 
 This component has been deployed on GitHub Pages for easy access: https://gurpreet240797.github.io/UpvoteComponent/
 ## Features
